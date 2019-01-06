@@ -1,5 +1,6 @@
 """
 Examples to show how boolean works in python
+new feature enhancement
 """
 
 a = True
@@ -17,6 +18,14 @@ c = ""
 print(bool(c))
 c = "Add some new value"
 print(bool(c))
+
+
+# new code .
+x = 10
+y = 30
+
+z = x + y
+print(z)
 
 
 
