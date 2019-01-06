@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cec185ae-a7ac-4b2f-a8d2-db31c849eb40" name="Default Changelist" comment="" />
+    <list default="true" id="cec185ae-a7ac-4b2f-a8d2-db31c849eb40" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicsyntax/boolean.py" beforeDir="false" afterPath="$PROJECT_DIR$/basicsyntax/boolean.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +15,17 @@
     <favorites_list name="PythonTutorial" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basicsyntax/boolean.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -21,6 +34,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -28,7 +44,6 @@
         <option value="$PROJECT_DIR$/basicsyntax/variables_rules.py" />
         <option value="$PROJECT_DIR$/basicsyntax/numbers.py" />
         <option value="$PROJECT_DIR$/basicsyntax/numbers_operations.py" />
-        <option value="$PROJECT_DIR$/basicsyntax/boolean.py" />
         <option value="$PROJECT_DIR$/basicsyntax/strings.py" />
         <option value="$PROJECT_DIR$/basicsyntax/string_methods.py" />
         <option value="$PROJECT_DIR$/basicsyntax/string_formatting.py" />
@@ -40,20 +55,22 @@
         <option value="$PROJECT_DIR$/basicsyntax/dicnested.py" />
         <option value="$PROJECT_DIR$/basicsyntax/tuplesdemo.py" />
         <option value="$PROJECT_DIR$/FirstSeleniumTest/Test/Test1.py" />
+        <option value="$PROJECT_DIR$/basicsyntax/boolean.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="703" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="839" />
-    <option name="height" value="924" />
+    <option name="width" value="1920" />
+    <option name="height" value="988" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -61,11 +78,15 @@
               <item name="PythonTutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonTutorial" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PythonTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="basicsyntax" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -274,9 +295,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="994" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="988" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.25118482" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.25065824" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.4071006" />
       <window_info id="Favorites" order="2" sideWeight="0.5010526" side_tool="true" weight="0.4071006" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -394,13 +416,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSeleniumTest/Test/Test1.py" />
     <entry file="file://$PROJECT_DIR$/basicsyntax/boolean.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="323">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstSeleniumTest/Test/Test1.py" />
   </component>
 </project>

@@ -15,7 +15,7 @@ print(bool(2))
 
 c = ""
 print(bool(c))
-c = "some value"
+c = "Add some new value"
 print(bool(c))
 
 
