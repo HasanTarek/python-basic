@@ -24,8 +24,8 @@ print(bool(c))
 x = 10
 y = 30
 
-z = x + y
-print(z)
+q = x + y
+print(q)
 
 
 
