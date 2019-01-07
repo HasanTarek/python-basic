@@ -5,22 +5,22 @@ print(int_numb)
 print(float_num)
 
 
-a = 10
-b = 20
+x = 10
+y = 20
 
 print ("@@@@@@@@@@@@ new @@@@@@@@")
 
-add = a + b
+add = x + y
 print(add)
 
 
-sub = b - a
+sub = x - y
 print(sub)
 
 
-multi = a * b
+multi = x * y
 print(multi)
 
 
-div = b / a
+div = y / x
 print(div)
