@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cec185ae-a7ac-4b2f-a8d2-db31c849eb40" name="Default Changelist" comment="" />
+    <list default="true" id="cec185ae-a7ac-4b2f-a8d2-db31c849eb40" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicsyntax/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/basicsyntax/strings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,12 +15,39 @@
     <favorites_list name="PythonTutorial" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basicsyntax/boolean.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+            <state relative-caret-position="380">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basicsyntax/dectdemo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basicsyntax/numbers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basicsyntax/strings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -39,9 +69,7 @@
       <list>
         <option value="$PROJECT_DIR$/basicsyntax/variables.py" />
         <option value="$PROJECT_DIR$/basicsyntax/variables_rules.py" />
-        <option value="$PROJECT_DIR$/basicsyntax/numbers.py" />
         <option value="$PROJECT_DIR$/basicsyntax/numbers_operations.py" />
-        <option value="$PROJECT_DIR$/basicsyntax/strings.py" />
         <option value="$PROJECT_DIR$/basicsyntax/string_methods.py" />
         <option value="$PROJECT_DIR$/basicsyntax/string_formatting.py" />
         <option value="$PROJECT_DIR$/basicsyntax/string_methods2.py" />
@@ -53,13 +81,16 @@
         <option value="$PROJECT_DIR$/basicsyntax/tuplesdemo.py" />
         <option value="$PROJECT_DIR$/FirstSeleniumTest/Test/Test1.py" />
         <option value="$PROJECT_DIR$/basicsyntax/boolean.py" />
+        <option value="$PROJECT_DIR$/basicsyntax/numbers.py" />
+        <option value="$PROJECT_DIR$/basicsyntax/strings.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="190" />
     <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="988" />
+    <option name="width" value="1799" />
+    <option name="height" value="843" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -102,7 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.boolean">
+  <component name="RunManager" selected="Python.numbers">
     <configuration name="Test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listsmerhods" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,7 +209,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicsyntax/listsmerhods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicsyntax/numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,21 +282,21 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.variables" />
+      <item itemvalue="Python.string_formatting" />
+      <item itemvalue="Python.dictmethods" />
+      <item itemvalue="Python.tuplesdemo" />
       <item itemvalue="Python.Test1" />
       <item itemvalue="Python.boolean" />
-      <item itemvalue="Python.dictmethods" />
-      <item itemvalue="Python.listsmerhods" />
-      <item itemvalue="Python.string_formatting" />
-      <item itemvalue="Python.tuplesdemo" />
-      <item itemvalue="Python.variables" />
+      <item itemvalue="Python.numbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.numbers" />
         <item itemvalue="Python.boolean" />
         <item itemvalue="Python.Test1" />
         <item itemvalue="Python.tuplesdemo" />
         <item itemvalue="Python.dictmethods" />
-        <item itemvalue="Python.listsmerhods" />
       </list>
     </recent_temporary>
   </component>
@@ -292,15 +323,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="988" extended-state="1" />
+    <frame x="190" y="23" width="1799" height="843" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.25065824" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.26771653" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.4071006" />
       <window_info id="Favorites" order="2" sideWeight="0.5010526" side_tool="true" weight="0.4071006" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.6339286" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38348868" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -329,13 +360,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basicsyntax/strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basicsyntax/string_methods2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
@@ -347,13 +371,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basicsyntax/numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -385,13 +402,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basicsyntax/dectdemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basicsyntax/dicnested.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
@@ -416,8 +426,29 @@
     <entry file="file://$PROJECT_DIR$/FirstSeleniumTest/Test/Test1.py" />
     <entry file="file://$PROJECT_DIR$/basicsyntax/boolean.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicsyntax/dectdemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicsyntax/numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicsyntax/strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
         </state>
       </provider>
     </entry>

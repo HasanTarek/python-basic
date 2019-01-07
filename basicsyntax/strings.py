@@ -6,18 +6,18 @@ contains a-z, 0-9, @
 IN double or single quots
 """
 
-a = "This is a simple string"
-b = 'Using single quotes'
+str_1 = "This is a simple string"
+str_2 = 'Using single quotes'
 
-print(a)
-print(b)
+print(str_1)
+print(str_2)
 
-c = "Need to use 'quotes' inside a string"
-print(c)
+str_3 = "Need to use 'quotes' inside a string"
+print(str_3)
 
-d = "Another way to handle \"quotes\""
-print(d)
+str_4 = "Another way to handle \"quotes\""
+print(str_4)
 
-a = "This is a single \
+str_1 = "This is a single \
 string"
-print(a)
+print(str_1)
