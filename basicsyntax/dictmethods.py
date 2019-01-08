@@ -22,10 +22,10 @@ print(d)
 
 
 
-print("*"*50)
+print("*"*56)
 
 
 # d = new dict()
-# d["sfo"]="San Francisco"
-# d["nyc"]="New York"
-# print(d)
+# # d["sfo"]="San Francisco"
+# # d["nyc"]="New York"
+# # print(d)
