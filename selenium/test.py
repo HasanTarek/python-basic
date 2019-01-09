@@ -18,7 +18,7 @@ driver.get("http://venturepulse.org/")
 time.sleep(4)
 driver.find_element_by_css_selector('#nav_list_items li:nth-of-type(2) [target]').click()
 
-time.sleep(4)
+time.sleep(6)
 driver.set_page_load_timeout("50")
 driver.maximize_window()
 driver.refresh()
