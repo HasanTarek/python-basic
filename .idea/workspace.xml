@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cec185ae-a7ac-4b2f-a8d2-db31c849eb40" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonTutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonTutorial.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/selenium/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-end-line="24" />
+            <state relative-caret-position="475">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -66,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="289" />
     <option name="y" value="27" />
     <option name="width" value="1383" />
@@ -312,11 +309,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="177" y="23" width="1383" height="814" extended-state="0" />
+    <frame x="289" y="27" width="1383" height="814" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49769586" visible="true" weight="0.34948605" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.4071006" />
-      <window_info id="Favorites" order="2" sideWeight="0.50230414" side_tool="true" visible="true" weight="0.34948605" />
+      <window_info id="Favorites" order="2" sideWeight="0.50230414" side_tool="true" weight="0.34948605" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39889196" />
@@ -443,8 +440,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/selenium/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-end-line="24" />
+        <state relative-caret-position="475">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
