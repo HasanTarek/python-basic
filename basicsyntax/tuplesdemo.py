@@ -20,7 +20,7 @@ print(my_tuple[1])
 print(my_tuple[1:])
 print(my_tuple.count(3))
 print(my_tuple.index(2))
-print("*"*30)
+print("*"*33)
 
 t = (10,20,30)
 print(t.index(20))
