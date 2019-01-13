@@ -7,6 +7,7 @@ from selenium.webdriver.common.keys import Keys
 driver = webdriver.Chrome("/Users/hasantarek/Documents/workspace_python/PythonTutorial/selenium/chromedriver")
 # driver = webdriver.Firefox("/Users/hasantarek/Documents/workspace_python/PythonTutorial/selenium/geckodriver")
 # driver = webdriver.ie("/Users/hasantarek/Documents/workspace_python/PythonTutorial/selenium/IEDriverServer.exe")
+# driver.set_page_load_timeout("10")
 driver.set_page_load_timeout("10")
 driver.get("https://www.google.com/")
 driver.find_element_by_name("q").send_keys("http://venturepulse.org/")
@@ -23,3 +24,5 @@ driver.set_page_load_timeout("50")
 driver.maximize_window()
 driver.refresh()
 driver.quit()
+
+
