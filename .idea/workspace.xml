@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cec185ae-a7ac-4b2f-a8d2-db31c849eb40" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cec185ae-a7ac-4b2f-a8d2-db31c849eb40" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,20 +12,7 @@
     <favorites_list name="PythonTutorial" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/selenium/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,6 +66,11 @@
             <path>
               <item name="PythonTutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonTutorial" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -240,13 +230,13 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.variables" />
-      <item itemvalue="Python.string_formatting" />
       <item itemvalue="Python.dictmethods" />
       <item itemvalue="Python.numbers" />
+      <item itemvalue="Python.string_formatting" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python tests.Unittests in just test.py" />
+      <item itemvalue="Python.variables" />
       <item itemvalue="Python tests.Unittests for just test.GoogleSearch" />
+      <item itemvalue="Python tests.Unittests in just test.py" />
     </list>
     <recent_temporary>
       <list>
@@ -304,9 +294,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="341" y="62" width="1383" height="814" extended-state="0" />
+    <frame x="852" y="23" width="958" height="780" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4972299" visible="true" weight="0.34948605" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4972299" visible="true" weight="0.17289221" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.4071006" />
       <window_info id="Favorites" order="2" sideWeight="0.50277007" side_tool="true" weight="0.34948605" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -433,15 +423,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/test.py" />
   </component>
 </project>
