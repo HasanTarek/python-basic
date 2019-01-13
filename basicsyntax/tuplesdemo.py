@@ -14,7 +14,7 @@ print(my_list)
 
 # my_tuple[0] = 4
 # print(my_tuple)
-print("********** tuple can not be changed **********")
+print("********* tuple can not be changed *********")
 
 print(my_tuple[1])
 print(my_tuple[1:])

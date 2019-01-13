@@ -21,3 +21,5 @@ print(str_4)
 str_1 = "This is a single \
 string"
 print(str_1)
+print("********* Awesome *********")
+
